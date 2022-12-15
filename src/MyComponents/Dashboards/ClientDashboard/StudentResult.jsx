@@ -8,7 +8,7 @@ const StudentResult = () => {
 
   var message = ""
   if (results.length == 0) {
-    message = "No Careers according to your Finance. Kindly increase your finance!";
+    message = "No Careers according to your Interests!";
   } 
 
   var widths = ['100%', '95%', '80%', '70%', '50%'];
